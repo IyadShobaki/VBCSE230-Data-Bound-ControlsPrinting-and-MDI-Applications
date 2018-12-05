@@ -1,0 +1,13 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\Database1.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\Database1_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\2-SimpleDataBind-.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\2-SimpleDataBind-.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\2-SimpleDataBind-.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\bin\Debug\2-SimpleDataBind-.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\_2_SimpleDataBind_.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\2-SimpleDataBind-.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\2-SimpleDataBind-.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\2-SimpleDataBind-.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\2-SimpleDataBind-.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\2-SimpleDataBind-.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week13\2-SimpleDataBind-\2-SimpleDataBind-\obj\Debug\_2_SimpleDataBind_.Form1.resources
